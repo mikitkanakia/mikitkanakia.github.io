@@ -1,0 +1,30 @@
+Bg Image
+
+
+
+
+Change the hover color
+
+#fec503 --> Yellow
+#fec810 --> Dark Yellow
+
+
+#3c9cd7 --> Blue
+
+
+#2f7aa8 --> Dark Blue --> Current
+
+
+
+
+---------------------------------
+
+navbar-brand js-scroll-trigger
+
+nav-link js-scroll-trigger
+
+
+header.masthead .intro-text .intro-lead-in
+
+
+Montserrat
